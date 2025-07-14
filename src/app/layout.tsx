@@ -2,7 +2,7 @@ import './globals.css';
 
 
 export const metadata = {
-  title: 'Pluga Challenge',
+  title: 'Pluga Challenge Front',
   description: 'Desafio técnico da Pluga',
 };
 
